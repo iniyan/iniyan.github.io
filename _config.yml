@@ -1,12 +1,7 @@
 # Site
 title:              Iniyan
-<<<<<<< HEAD
 bio:                'INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal.'
 description:        "INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal."
-=======
-bio:                'Journalist, Inactive WordPress Developer'
-description:        "INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now at Vikatan. views are personal."
->>>>>>> c4c4e4e455cff3e80d9ff97aadcae94fe557da15
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
