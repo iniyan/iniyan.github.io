@@ -1,7 +1,7 @@
 ---
 id: 30
 title: இது பெரியாரின் வெற்றி
-date: 2009-09-19T15:39:00+00:00
+date: 2009-09-19 15:39:00+00:00
 author: iniyan
 layout: post
 guid: 'http://iniyan.in/index.php/2009/09/19/%e0%ae%87%e0%ae%a4%e0%af%81-%e0%ae%aa%e0%af%86%e0%ae%b0%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%af%86%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf/'

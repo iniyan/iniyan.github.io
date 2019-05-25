@@ -1,7 +1,7 @@
 ---
 id: 209
 title: '#HitRefresh &#8211; மைக்ரோசாஃப்ட்டின் கதையும் கூட..!'
-date: {}
+date: 2017-11-17T14:23:55+00:00
 author: iniyan
 layout: post
 guid: 'http://iniyan.in/?p=209'

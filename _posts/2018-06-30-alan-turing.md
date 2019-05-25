@@ -1,7 +1,7 @@
 ---
 id: 199
 title: 'ஆலன் டூரிங் &#8211; உன்னதங்களைக் கனவு கண்டவன்'
-date: {}
+date: 2018-06-30T14:23:55+00:00
 author: iniyan
 layout: post
 guid: 'http://iniyan.in/?p=199'
