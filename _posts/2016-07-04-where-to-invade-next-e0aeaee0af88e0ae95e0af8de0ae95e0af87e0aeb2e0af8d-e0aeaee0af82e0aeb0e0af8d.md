@@ -1,0 +1,49 @@
+---
+id: 145
+title: '&#8220;அடுத்து எந்த நாட்டின் மீது படை எடுக்கலாம்?&#8221; &#8211; மைக்கேல் மூர்'
+date: 2016-07-04T13:03:45+00:00
+author: iniyan
+layout: post
+guid: http://iniyan.in/?p=145
+permalink: '/2016/07/04/where-to-invade-next-%e0%ae%ae%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%87%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%af%82%e0%ae%b0%e0%af%8d/'
+zp_like:
+  - "0"
+zp_audio_mp3_url:
+  - ""
+zp_audio_ogg_url:
+  - ""
+zp_embed_audio:
+  - ""
+zp_link_format:
+  - ""
+zp_video_m4v_url:
+  - ""
+zp_video_ogv_url:
+  - ""
+zp_video_format_embed:
+  - ""
+zp_post_gallery:
+  - ""
+post_views_count:
+  - "3"
+image: /wp-content/uploads/2018/05/1024px-Michael_Moore_66ème_Festival_de_Venise_Mostra_color.jpg
+categories:
+  - திரைப்படம்
+tags:
+  - அமெரிக்கா
+  - ஆவணப்படம்
+  - மைக்கேல் மூர்
+  - விகடன்
+---
+**வா**ய்ப்புக் கிடைக்கும் போதெல்லாம் அமெரிக்காவின் மீதும், அமெரிக்க அரசியலின் மீதும், அமெரிக்கக் கனவின் மீதும் சாணி அடிப்பதையே வழக்கமாகக் கொண்ட அமெரிக்க ஆவணப்பட இயக்குநர்  மைக்கேல் மூர் சமீபத்தில் எடுத்திருக்கும் ஆவணப்படம்,_ &#8216;அடுத்து எந்த நாட்டின் மீது படை எடுக்கலாம்?&#8217; _
+
+<figure id="attachment_146" aria-describedby="caption-attachment-146" style="width: 702px" class="wp-caption aligncenter"><img class="wp-image-146 size-large" src="http://localhost:8888/wordpress/wp-content/uploads/2018/05/1024px-Michael_Moore_66ème_Festival_de_Venise_Mostra_color-1024x682.jpg" alt="மைக்கேல் மூர்" width="702" height="468" srcset="http://localhost:8888/wordpress/wp-content/uploads/2018/05/1024px-Michael_Moore_66ème_Festival_de_Venise_Mostra_color.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2018/05/1024px-Michael_Moore_66ème_Festival_de_Venise_Mostra_color-300x200.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2018/05/1024px-Michael_Moore_66ème_Festival_de_Venise_Mostra_color-768x512.jpg 768w" sizes="(max-width: 702px) 100vw, 702px" /><figcaption id="caption-attachment-146" class="wp-caption-text">By nicolas genin [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons</figcaption></figure>  
+என்ன இது&#8230; மைக்கேல் மூர் கடைசிக்காலத்தில் அமெரிக்க அரசோடு சமரசமாகிவிட்டாரா? அமெரிக்காவின் போர் வெறிக்குத் துணை போவது போலான தலைப்பாக இருக்கிறதே, அல்லது வழக்கம் போல மைக்கேல் மூரின் நையாண்டித்தனமானத் தலைப்பா என்று யோசித்துக்கொண்டேதான் இந்த ஆவணப்படத்தைப் பார்க்க ஆரம்பிக்க வேண்டி இருக்கிறது.  அமெரிக்காவின் சுதந்திர தினத்தை விட இந்த ஆவணப்படத்தைப் பார்க்க வேறு சிறந்த நாள் கிடைத்துவிடாது.
+
+அமெரிக்காவின் மருத்துவச் சேவைகளையும், அதன் போதாமைகளையும் ‘சிக்கோ’ (Sicko) என்ற ஆவணப் படத்தின் மூலமாகவும், இரட்டைக்கோபுரங்கள் தகர்க்கப்பட்ட நிகழ்வை, ஜூனியர் புஷ் அரசாங்கத்தின் மீதான விமர்சனமாக முக்கியமாக முன் வைத்து ’ஃபாரென்ஹீட் 9/11’ (Fahrenheit 9/11) என்ற ஆவணப் படத்தின் மூலமாகவும், அமெரிக்கப் பொருளாதாரச் சரிவின் பின்னணியை வைத்து, அமெரிக்க அரசைக் கேள்விக்குட்படுத்தும் வகையில் ’Capitalism: A Love Story’ என்ற ஆவணப்படத்தையும் இயக்கிய மைக்கேல் மூர், இதுபோன்று அமெரிக்க அரசைக் கேள்விக்குள்ளாக்கும் மேலும் பல ஆவணப்படங்களை எடுத்துள்ளார். அவரின் அடுத்த படமாக Where to Invade Next வெளிவந்திருக்கிறது.
+
+இரண்டாம் உலகப்போருக்குப் பிறகு அமெரிக்கா, எந்த ஒரு பெரியப் போரையும் வெல்லவில்லை. வியட்நாம் எந்தளவுக்குப் பெரிய தோல்வியோ அதே போலத்தான் வளைகுடாப் போர், ஆஃப்கானிஸ்தான், ஈராக் என்று எல்லாமே பொருளாதார ரீதியாகவும், அரசியல் ரீதியாகவும் பெரிய தோல்வியிலேயே முடிந்திருக்கின்றன. இப்படி அமெரிக்க அரசே சொதப்பும் நிலையில், &#8216;நான் தனி ஒரு ஆளாக படையெடுத்து பல நாடுகளுக்குச் சென்று வென்று வருகிறேன்&#8217; என்று மைக்கேல் மூர் கிளம்புவதுதான் ஆவணப்படத்தின் மைய இழை. அப்படி அவர் இத்தாலி, பிரான்ஸ், ஜெர்மன், நார்வே, துனிசியா, ஸ்லோவேனியா, ஐஸ்லாந்து என்று பல நாடுகளுக்குப் படையெடுத்துச் செல்கிறார்.
+
+அமெரிக்க அரசாங்கம், ஒரு நாட்டின் மீது எதற்கெல்லாம் படையெடுத்துச் செல்லுமோ அதற்காக மைக்கேல் மூர் கிளம்பவில்லை.
+
+[முழு கட்டுரை விகடன் தளத்தில் ](https://www.vikatan.com/news/world/65810-where-to-invade-next-michael-moore-documentary.html)

@@ -1,0 +1,61 @@
+---
+id: 23
+title: 'சோமநாதபுரம் கதை &#038; வரலாறு – ரூமிலா தாப்பர்'
+date: 2010-11-15T17:04:00+00:00
+author: iniyan
+layout: post
+guid: 'http://localhost:8888/wordpress/2010/11/15/%e0%ae%9a%e0%af%8b%e0%ae%ae%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%ae%aa%e0%af%81%e0%ae%b0%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88-%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%81/'
+permalink: '/2010/11/15/%e0%ae%9a%e0%af%8b%e0%ae%ae%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%ae%aa%e0%af%81%e0%ae%b0%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88-%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%81/'
+blogger_blog:
+  - www.iniyan.in
+blogger_author:
+  - ""
+blogger_permalink:
+  - /2010/11/blog-post_15.html
+blogger_internal:
+  - /feeds/9146627533884274098/posts/default/3312731706227100162
+post_views_count:
+  - "43"
+image: /wp-content/uploads/2018/04/Untitled-presentation-7.png
+categories:
+  - புத்தகம்
+  - ரோமிலா தாப்பர்
+  - வரலாறு
+tags:
+  - புத்தகம்
+  - ரூமிலா தாப்பர்
+  - வரலாறு
+---
+<div dir="ltr" style="text-align: left;">
+  <header><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span> </header> 
+  
+  <blockquote>
+    <div style="padding-left: 30px;">
+      <span style="font-family: Latha;">மார்ச் மாதம் </span>1999<span style="font-family: Latha;">ஆம் ஆண்டு</span>, <span style="font-family: Latha;">மும்பை பல்கலைக் கழகத்தில் இந்தியாவில் நாணயவியல் துறையை வளர்த்தெடுத்தவரும்</span>, <span style="font-family: Latha;">கணித துறை பேராசிரியரும்</span>, <span style="font-family: Latha;">மார்க்சிய நோக்கில் வரலாற்றை ஆய்வு செய்து</span>, <span style="font-family: Latha;">புத்தகங்களை படைத்தவருமான <span style="color: #0099ff;"><strong>டி</strong></span></span><span style="color: #0099ff;"><strong>.</strong><span style="font-family: Latha;"><strong>டி</strong></span></span><span style="color: #0099ff;"><strong>.</strong><span style="font-family: Latha;"><strong>கோசாம்பியின் </strong></span></span>(<span style="font-family: Latha;">தாமோதர் தர்மானந்த் கோசாம்பி</span>) <span style="font-family: Latha;">நினைவுப் பேருரையாற்ற வரலாற்றாசிரியர் <span style="color: maroon;">ரூமிலா தாப்பர்<a href="https://draft.blogger.com/null" name="sdfootnote1anc"></a></span> வந்திருந்தார்</span>, <span style="font-family: Latha;">அவர் ஆற்றிய உரை ஒரு வகையில் சிறப்பு மிக்கது</span>, <span style="font-family: Latha;">இதுவரையிலும் வரலாறு என்ற பெயரில் சொல்லப்பட்டு வரும் கதையின் பின்புலத்தை அலசி ஆராய்ந்து அவர் ஆற்றிய உரை</span>, <span style="font-family: Latha;">தற்போது </span>(<span style="font-family: Latha;">மே </span>2010<span style="font-family: Latha;">ல்</span>) <span style="font-family: Latha;">தமிழில் மொழிபெயர்க்கப்பட்டு நூலாக வந்திருக்கிறது</span>.
+    </div>
+  </blockquote>
+  
+  <p>
+    “<span style="font-family: Latha;">பதினேழு முறை தோற்றவன்</span>, <span style="font-family: Latha;">இறுதியாக வென்றான்</span>,” “<span style="font-family: Latha;">விடாமுயற்சி விஸ்வரூப வெற்றி</span>” <span style="font-family: Latha;">என்றெல்லாம் வியாக்கியானம் பேச எல்லாராலும் மேற்கோள் காட்டப்படும் முகமது கஜினியின் வரலாறே திரிக்கப்பட்டுத் தான் இப்படி வியாக்கியானம் பேசத் தகுதியான கதையாக உருமாறியிருக்கிறது</span>. <span style="font-family: Latha;">இப்படிச் சொல்லப்படும் கதையெல்லாம்</span>, <span style="font-family: Latha;">வரலாறு தெரியாதவர்களால் ஊதிவிடப்பட்டதென்று ஒதுக்கிவிடலாம்</span>. <span style="font-family: Latha;">ஆனால்</span>, <span style="font-family: Latha;">நீங்கள் சொல்லும் வரலாறு ஊதி பெரிதாக்கப்பட்டது தானென்று ஒரு குரல் கேட்கும் போது அதைக் கூர்ந்து கவணிப்பது அவசியமானது தானே</span>?<br /> <span style="font-family: Latha;">சோமநாதர் கோயில் கஜினியின் முகமதுவால் இடிக்கப்பட்டது என்பதிலிருந்து நேரெதிராக இரு சக்திகளை முன்னிறுத்தும் வகைப்பட்ட வரலாறு இந்தியாவில் துவங்குகிறது</span>. <span style="font-family: Latha;">இந்து</span>&#8211;<span style="font-family: Latha;">முஸ்லீம் வெறுப்புணர்வின் அடிநாதத்தைத் தேடிக் கொண்டே போனால்</span>, <span style="font-family: Latha;">அது கோயில்களை இடித்து தங்கள் மத வழிபாட்டு நிலையங்களை மேம்படுத்தினார்கள்</span>, <span style="font-family: Latha;">மதத்தை அழித்தார்கள்</span>, <span style="font-family: Latha;">என்ற குற்றச்சாட்டிலேயே போய் நிற்கும்</span>. <span style="font-family: Latha;">ஆயிரம் ஆண்டுகளுக்குப் பிறகும் நேற்றைய நீதி மன்ற தீர்ப்பு வரை நீளும் பிரச்சினைதான் இது</span>. <span style="font-family: Latha;">நீரோடைக்கு அடியில் இருக்கும் பிரச்னை இது</span>, <span style="font-family: Latha;">பல குட்டைகளையும் போட்டு குழப்பியதில் தெளிவாக பார்க்க முடியாமல்</span>, <span style="font-family: Latha;">மேலே குழம்பியை ஒரு சகதியை மட்டும் நாம் பார்த்துக் கொண்டு</span>, <span style="font-family: Latha;">காசுமீர் பிரச்னையா</span>, <span style="font-family: Latha;"><strong>அதோ அந்தாண்டை இருந்து பாகிஸ்தான் காரன் கல்லு குடுக்குறான்யா </strong>என டீக்கடைகளில் பெஞ்சை தேய்த்துவிட்டு டீயை காலி செய்துவிட்டு போய்விடுகிறொம்</span>. <span style="font-family: Latha;">பிரச்னையின் ஆணிவேர் துவங்கிய சோமநாதர் கோயில் இடிப்பின் வரலாறும் கதையும் இந்நூலில் </span>(<span style="font-family: Latha;">உரையில்</span>) <span style="font-family: Latha;">சொல்லிச் செல்கிறார் ரூமில தாப்பர்</span>.<br /> <span style="font-family: Latha;">இந்நூலைத் துவங்கும் போது</span>, <span style="font-family: Latha;">கோவில் கொள்ளயடிக்கப்பட்டதற்கு முன்பு அங்கு நிலவிய சூழல்</span>, <span style="font-family: Latha;">அன்றய சமூக அமைப்பு </span>, <span style="font-family: Latha;">போன்ற பலவற்றையும் சுட்டிக்காட்டி</span>, <span style="font-family: Latha;">இந்த ஆய்வை முன்னெடுக்க தான் எடுத்துக்கொள்ளும் சாட்சியங்களையும்</span>, <span style="font-family: Latha;">சொல்லி அப்படியே</span>, <span style="font-family: Latha;">அந்தச் சான்றுகளில் உள்ளவற்றையும்</span>, <span style="font-family: Latha;">அச்சான்றுகளின் நம்பகத்தன்மையையும்</span>, <span style="font-family: Latha;">விளக்கிக் கொண்டே சென்று உச்சநிலையாக</span>, <span style="font-family: Latha;">மேற்கண்ட சான்றுகளிலிருந்து எவ்வாறு மதச்சார்பற்றத் தன்மை உடைக்கப்பட்டது என்பதையும்</span>, <span style="font-family: Latha;">மத வெறுப்புணர்வு வளர்க்கப்பட்டதையும் கூறுகிறார்</span>.<br /> <span style="font-family: Latha;">அவர் ஆய்வுக்கு எடுத்துக் கொள்ளும் ஐந்து வகையான சான்றுகள்</span>,
+  </p>
+  
+  <ol>
+    <li>
+      <span style="font-family: Latha;">துருக்கிய</span>&#8211;<span style="font-family: Latha;">பாரசீகச் சான்றுகள்</span>
+    </li>
+    <li>
+      <span style="font-family: Latha;">முகமது காலத்திய சமணச் சான்றுகள்</span>
+    </li>
+    <li>
+      <span style="font-family: Latha;">சோமநாதபுரத்திலுள்ள் சமஸ்கிருதக் கல்வெட்டுகள்</span>
+    </li>
+    <li>
+      <span style="font-family: Latha;">பிரிட்டிஷ் நாடாளுமன்றத்தின் மக்களவையில் நடந்த விவாதங்கள்</span>
+    </li>
+    <li>
+      <span style="font-family: Latha;">தேசிய வாதிகளின் பார்வைகள்</span>
+    </li>
+  </ol>
+  
+  <p>
+    <span style="font-family: Latha;">இந்த ஐந்து வகைச் சான்றுகளில் இருந்து</span>, <span style="font-family: Latha;">ஒவ்வொன்றையும்</span>, <span style="font-family: Latha;">விளக்கி</span>, <span style="font-family: Latha;">கஜினியின் முகம்மது சோமநாதர் ஆலய கொள்ளை மற்றும் சிலை உடைப்பால் மட்டுமே இஸ்லாத்தின் வெற்றியாளராக கருதப்படவில்லை என்பதையும்</span>, <span style="font-family: Latha;">அன்றைய நாளிலிருந்து இன்று வரைத் தொடரும் ஷியா</span>&#8211;<span style="font-family: Latha;">சன்னி உள்ளடிச் சண்டைகளில் முகம்மதுவின் நிலைப்பாட்டாலும்</span>, <span style="font-family: Latha;">அன்றைய குதிரை வணிகத்துக்கும் உள்ள தொடர்பினாலும் ஆதிக்கப் போட்டியுமே முகம்மதுவை இஸ்லாத்தின் வெற்றியாளராக நிலைத்திருக்கச் செய்யும் காரணங்களென்றும் விளக்குகிறார்</span>.<br /> <span style="font-family: Latha;">சோமநாதபுரக் கோயில் முகம்மதுவால் மட்டுமல்ல</span>, <span style="font-family: Latha;">அன்றைய உள்நாட்டு அரசர்களாலும்</span>, <span style="font-family: Latha;">கொள்ளையர்களாலும் தாக்கப்பட்டதற்கான சான்றுகளின் குறிப்புகளையும் மேற்கோள் காட்டுகிறார்</span>. <span style="font-family: Latha;">சோமநாதபுரக் கோயில் வெறும் கோயிலாக மட்டுமில்லாமல்</span>, <span style="font-family: Latha;">அன்றைய அதிகார குவிப்பிடமாகவும்</span>, <span style="font-family: Latha;">மையமாகவும் விளங்கியதால்தான் அன்றைய நாளில் உள்நாட்டவர் பலராலும் தாக்கப்பட்டதாகவும் இவர் சொல்கிற கருத்தை ஏற்காமல் இருக்க முடியாது</span>. <span style="font-family: Latha;">அன்றைய சைவ</span>&#8211;<span style="font-family: Latha;">சமண</span>, <span style="font-family: Latha;">சிவன்</span>&#8211;<span style="font-family: Latha;">மகாவீரர் போட்டிகளின் நிலையையும் ஒருவர் மீதான மற்றொருவரின் வெற்றிகள் கூறும் வேறொரு வகையான வரலாற்றுக்கதையையும் சமணச்சான்றுகளிலிருந்து மேற்கோள் காட்டுகிறார்</span>.<br /> <span style="font-family: Latha;">சோமநாதபுரத்திலுள்ள சமஸ்கிருத மொழியிலுள்ள கல்வெட்டு ஒன்று</span>, <span style="font-family: Latha;">கோவிலுக்கு சொந்தமான நிலத்தின் சிறுபகுதி</span>, <span style="font-family: Latha;">ஒரு மசூதி கட்டுவதற்காக தானமாக வழங்கப்பட்டதற்கான ஆவணமாக விளங்குகிறது</span>, <span style="font-family: Latha;">சமஸ்கிருதத்திலும் அரபிய மொழியிலுமாக இந்த கல்வெட்டுகள் உள்ளன</span>, <span style="font-family: Latha;">கோவில் இடிப்புச் சம்பவத்தின் இருநூறு ஆண்டுகளில் இந்நிகழ்வு நடந்துள்ளது</span>, <span style="font-family: Latha;">அன்று மதச் சகிப்புத்தன்மை அந்தளவுக்கா இருந்தது</span>? <span style="font-family: Latha;">இல்லை கஜினியின் முகம்மதுவின் கொள்ளை சம்பவம்</span>, <span style="font-family: Latha;">அந்தளவுக்கு கண்டுகொள்ளப்படவில்லையா</span>? <span style="font-family: Latha;">ரூமிலாவே விடையுமளிக்கிறார்</span>. <span style="font-family: Latha;">இந்தக் கொள்ளை சம்பவம் பற்றி இன்று என்ன கொள்கைகள் நிலவுகிறதோ அதற்கு நேர்மாறானவை அன்று நிலவியிருக்கிறதென்பதை</span>, <span style="font-family: Latha;">அன்றைய வரலாறு சொல்கிறது என்கிறார்</span>.<br /> <span style="font-family: Latha;">கிழக்கிந்திய கம்பெனியின் ஆட்சிக்காலத்தில் இஸ்லாத்தின் மீதான இந்துமத வெற்றியாக</span>, (<span style="font-family: Latha;">முன்னொரு காலத்திலோ</span>, <span style="font-family: Latha;">நீங்கள் தோற்றவர்கள்</span>, <span style="font-family: Latha;">என்பதைச் சொல்லாமல் சொல்வதாகவும்</span>) <span style="font-family: Latha;">ஆப்கன் படையெடுப்பின் போது</span>, <span style="font-family: Latha;">சோமநாதபுரக் கோயிலிலிருந்து பெயர்த்தெடுத்துச் செல்லப்படாததாக கருதப்பட்ட கதவை</span>, <span style="font-family: Latha;">முகம்மதுவின் கல்லறையிலிருந்து பெயர்த்து எடுத்து வருவது</span>, <span style="font-family: Latha;">அன்றைய கம்பெனியாரின் நோக்கமாக இருந்து வந்ததையும்</span>, <span style="font-family: Latha;">கதவு எடுத்து வந்த பிறகுதான்</span>, <span style="font-family: Latha;">அதில் துளியும் இந்தியத்தன்மை இல்லாததும்</span>, <span style="font-family: Latha;">எகிப்திய தனமைகள் மிகுந்திருந்ததும்</span>, <span style="font-family: Latha;">கதவு பற்றியது கட்டுக்கதையே என்றும் சொல்கிறார்</span>. <span style="font-family: Latha;">இவை பிரிட்டீஷ் நாடாளுமன்ற விவாத ஆவணங்களிலிருந்து பெறப்பட்டிருக்கும் தகவல்</span>. <span style="font-family: Latha;">இந்து</span>&#8211;<span style="font-family: Latha;">முஸ்லீம் துவேஷத்திற்கு தூபம் போட</span>, <span style="font-family: Latha;">மீண்டும் முகம்மதுவின் கொள்ளை கிளறப்பட்டதை தெளிவாகவே புரிந்து கொள்ளலாம்</span>.<br /> <span style="font-family: Latha;">மீண்டும் சோமநாதர் ஆலயம் அரசு சார்பாக புதுப்பிக்கப்படுவதும்</span>, <span style="font-family: Latha;">அரச பிரதிநிதிகள் அவ்விழாவில் கலந்து கொள்வது</span>, <span style="font-family: Latha;">மதச்சார்பற்ற தன்மைக்கு குந்தகத்தையும்</span>, <span style="font-family: Latha;">மதத் துவேஷத்தையுமே வளர்க்கும்</span>, <span style="font-family: Latha;">அது இந்து தேசிய உணர்ச்சியின் வளர்ச்சிக்கே உதவுமென்ற கருத்து கொண்டிருந்த நேருவின் கொள்கைக்கும் மற்ற இந்து தேசியவாதிகளுக்குமான முரண்பாட்டை ஐந்தாவது வகை ஆதாரமாகக் கொண்டு</span>, <span style="font-family: Latha;">மதப்பூசல்களுக்காக கிளறப்படுவதையும் விளக்குகிறார்</span>.<br /> <span style="font-family: Latha;">ஒருநிகழ்வு</span>, <span style="font-family: Latha;">பலவேறு விதமான ஆதாரங்களையும் கட்டுக்கதைகளையும் கொண்டு விளங்குவது</span>, <span style="font-family: Latha;">உண்மையான வரலாற்றுக்கு நம்மை இட்டுச் செல்லாமல்</span>, <span style="font-family: Latha;">ஒவ்வொருவரும் தான் எவ்வகையான நிலைப்பாட்டைக் கொண்டிருக்கிறாரோ</span>, <span style="font-family: Latha;">அதை நோக்கிய முன் முடிவோடே செல்லும் நிலையை கொண்டு செல்லும் என்பதையும்</span>, <span style="font-family: Latha;">அது என்றுமே வரலாற்றைப் படிப்பதற்கான சரியான அனுகுமுறை அல்லவென்பதையும் விளக்குகிறார்</span>.<br /> <span style="font-family: Latha;">சோமநாதபுரக் கோவில் பற்றிய விரிவான வரலாற்று ஆய்வு நூல் ஒன்றை ரூமிலா தாப்பரே எழுதியிருக்கிறார்</span>, <span style="font-family: Latha;">கிடைத்தால் அதையும் படிக்க வேண்டும்</span>.<br /> <span style="font-family: Latha;"></span></div>
