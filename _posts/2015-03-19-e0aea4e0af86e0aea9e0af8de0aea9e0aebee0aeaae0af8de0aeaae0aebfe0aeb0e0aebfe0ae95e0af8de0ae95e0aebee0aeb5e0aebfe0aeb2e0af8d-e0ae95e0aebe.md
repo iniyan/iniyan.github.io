@@ -1,7 +1,7 @@
 ---
 id: 7
 title: தென்னாப்பிரிக்காவில் காந்தி
-date: {}
+date: 2015-03-19T14:10:00+00:00
 author: iniyan
 layout: post
 guid: >-

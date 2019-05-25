@@ -1,7 +1,7 @@
 ---
 id: 8
 title: மொழிப்போர்
-date: 2014-11-10T15:13:00.000Z
+date: date: 2014-11-10T15:13:00+00:00
 author: iniyan
 layout: post
 guid: >-
