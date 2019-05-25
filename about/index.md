@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Thamiziniyan
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags:
+  - about
+date: 2016-03-21T00:00:00.000Z
 comments: false
+published: true
 ---
     
-INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal.
+INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @ [Vikatan](https://vikatan.com) views are personal.
