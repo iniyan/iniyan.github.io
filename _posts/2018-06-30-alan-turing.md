@@ -41,6 +41,4 @@ published: true
 
 #### கணினிகளே முழுமையாக உருவாக்கப்படாத காலத்தில், நவீன கணினிகளைக் கனவு கண்டு கட்டமைத்தவன், இரண்டாம் உலகப் போரை சில ஆண்டுகள் முன்பாக முடித்து வைத்தவன். யார் இந்த ஆலன் டூரிங்? ஏன் நவீன கணினியியலின் காலத்தில் அவன் முக்கியமானவன்?
 
-முழு கட்டுரையை [விகடன் தளத்தில்  ](https://www.vikatan.com/news/information-technology)[&#8220;I am not a robot&#8221; &#8211; நம்மை இப்படித் தினம் தினம் நிரூபிக்க வைத்த ஆலன் டூரிங்கைத் தெரியுமா? ](https://www.vikatan.com/news/information-technology/128596-alan-turing-the-man-who-constituted-modern-computing-machines.html)
-
-படிக்கலாம்.
+முழு கட்டுரையை [விகடன் தளத்தில்  ](https://www.vikatan.com/news/information-technology)[&#8220;I am not a robot&#8221; &#8211; நம்மை இப்படித் தினம் தினம் நிரூபிக்க வைத்த ஆலன் டூரிங்கைத் தெரியுமா? ](https://www.vikatan.com/news/information-technology/128596-alan-turing-the-man-who-constituted-modern-computing-machines.html) படிக்கலாம்.
