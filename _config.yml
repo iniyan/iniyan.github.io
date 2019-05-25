@@ -1,6 +1,6 @@
 # Site
 title:              Iniyan
-bio:                'Journalist, Inactive WordPress Developer'
+bio:                'INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal.'
 description:        "INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal."
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             in_TA
-url:                https://iniyan.github.io/
+url:                https://iniyan.github.io
 
 # Jekyll
 permalink:          /:title/
