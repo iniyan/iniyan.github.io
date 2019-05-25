@@ -1,13 +1,17 @@
 ---
 id: 199
 title: 'ஆலன் டூரிங் &#8211; உன்னதங்களைக் கனவு கண்டவன்'
-date: 2018-06-30T02:49:00+00:00
+date: 2018-06-30T14:23:55+00:00
 author: iniyan
 layout: post
-guid: http://iniyan.in/?p=199
+guid: 'http://iniyan.in/?p=199'
 permalink: /2018/06/30/alan-turing/
 ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:127:"ஆலன்,டூரிங்,ஒரு,சில,ஆண்டுகளுக்கு,இந்த,ஓர்,சுவர்";s:19:"keywords_autoupdate";i:1;s:11:"description";s:435:"ஆலன் டூரிங் ஜெர்மானியர்கள் போர் தொடர்பாகப் பயன்படுத்திய ரகசிய/குறியீட்டுத் தகவல் பரிமாற்றங்களை பிரிட்டிஷார் கண்டறிந்ததால் மட்டுமே இரண்டாம் உலகப்போர் இரண்டு";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+  - >-
+    a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:127:"ஆலன்,டூரிங்,ஒரு,சில,ஆண்டுகளுக்கு,இந்த,ஓர்,சுவர்";s:19:"keywords_autoupdate";i:1;s:11:"description";s:435:"ஆலன்
+    டூரிங் ஜெர்மானியர்கள் போர் தொடர்பாகப் பயன்படுத்திய ரகசிய/குறியீட்டுத் தகவல்
+    பரிமாற்றங்களை பிரிட்டிஷார் கண்டறிந்ததால் மட்டுமே இரண்டாம் உலகப்போர்
+    இரண்டு";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}
 image: /wp-content/uploads/2018/06/128596_thumb.png
 categories:
   - வரலாறு
@@ -17,8 +21,9 @@ tags:
   - enigma
   - Turing test
   - ஆலன் டூரிங்
+published: true
 ---
-<figure id="attachment_200" aria-describedby="caption-attachment-200" style="width: 1088px" class="wp-caption alignnone"><img class="size-full wp-image-200" src="http://localhost:8888/wordpress/wp-content/uploads/2018/06/128596_thumb.png" alt="கணினிகளே முழுமையாக உருவாக்கப்படாத காலத்தில், நவீன கணினிகளைக் கனவு கண்டு கட்டமைத்தவன், இரண்டாம் உலகப் போரை சில ஆண்டுகள் முன்பாக முடித்து வைத்தவன். யார் இந்த ஆலன் டூரிங்? ஏன் நவீன கணினியியலின் காலத்தில் அவன் முக்கியமானவன்?" width="1088" height="550" srcset="http://localhost:8888/wordpress/wp-content/uploads/2018/06/128596_thumb.png 1088w, http://localhost:8888/wordpress/wp-content/uploads/2018/06/128596_thumb-300x152.png 300w, http://localhost:8888/wordpress/wp-content/uploads/2018/06/128596_thumb-768x388.png 768w, http://localhost:8888/wordpress/wp-content/uploads/2018/06/128596_thumb-1024x518.png 1024w" sizes="(max-width: 1088px) 100vw, 1088px" /><figcaption id="caption-attachment-200" class="wp-caption-text">ஆலன் டூரிங்</figcaption></figure>
+கணினிகளே முழுமையாக உருவாக்கப்படாத காலத்தில், நவீன கணினிகளைக் கனவு கண்டு கட்டமைத்தவன், இரண்டாம் உலகப் போரை சில ஆண்டுகள் முன்பாக முடித்து வைத்தவன். யார் இந்த ஆலன் டூரிங்? ஏன் நவீன கணினியியலின் காலத்தில் அவன் முக்கியமானவன்?
 
 ஜெர்மானியர்கள் போர் தொடர்பாகப் பயன்படுத்திய ரகசிய/குறியீட்டுத் தகவல் பரிமாற்றங்களை பிரிட்டிஷார் கண்டறிந்ததால் மட்டுமே இரண்டாம் உலகப்போர் இரண்டு ஆண்டுகளுக்கு முன்பே முடிவுக்கு வந்தது எனச் சில போர் வரலாற்றாளர்கள் குறிப்பிடுகிறார்கள்.
 
@@ -36,6 +41,4 @@ tags:
 
 #### கணினிகளே முழுமையாக உருவாக்கப்படாத காலத்தில், நவீன கணினிகளைக் கனவு கண்டு கட்டமைத்தவன், இரண்டாம் உலகப் போரை சில ஆண்டுகள் முன்பாக முடித்து வைத்தவன். யார் இந்த ஆலன் டூரிங்? ஏன் நவீன கணினியியலின் காலத்தில் அவன் முக்கியமானவன்?
 
-முழு கட்டுரையை [விகடன் தளத்தில்  ](https://www.vikatan.com/news/information-technology)[&#8220;I am not a robot&#8221; &#8211; நம்மை இப்படித் தினம் தினம் நிரூபிக்க வைத்த ஆலன் டூரிங்கைத் தெரியுமா? ](https://www.vikatan.com/news/information-technology/128596-alan-turing-the-man-who-constituted-modern-computing-machines.html)
-
-படிக்கலாம்.
+முழு கட்டுரையை [விகடன் தளத்தில்  ](https://www.vikatan.com/news/information-technology)[&#8220;I am not a robot&#8221; &#8211; நம்மை இப்படித் தினம் தினம் நிரூபிக்க வைத்த ஆலன் டூரிங்கைத் தெரியுமா? ](https://www.vikatan.com/news/information-technology/128596-alan-turing-the-man-who-constituted-modern-computing-machines.html) படிக்கலாம்.

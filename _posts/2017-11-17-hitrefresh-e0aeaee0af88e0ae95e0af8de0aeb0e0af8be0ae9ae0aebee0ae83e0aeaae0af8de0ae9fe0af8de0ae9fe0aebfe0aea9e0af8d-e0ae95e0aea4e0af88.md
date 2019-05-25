@@ -1,13 +1,15 @@
 ---
 id: 209
 title: '#HitRefresh &#8211; மைக்ரோசாஃப்ட்டின் கதையும் கூட..!'
-date: 2017-11-17T14:01:28+00:00
+date: 2017-11-17T14:23:55.000Z
 author: iniyan
 layout: post
-guid: http://iniyan.in/?p=209
-permalink: '/2017/11/17/hitrefresh-%e0%ae%ae%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%b0%e0%af%8b%e0%ae%9a%e0%ae%be%e0%ae%83%e0%ae%aa%e0%af%8d%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88/'
+guid: 'http://iniyan.in/?p=209'
+permalink: >-
+  /2017/11/17/hitrefresh-%e0%ae%ae%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%b0%e0%af%8b%e0%ae%9a%e0%ae%be%e0%ae%83%e0%ae%aa%e0%af%8d%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88/
 ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";i:1;s:11:"description";s:0:"";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
+  - >-
+    a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";i:1;s:11:"description";s:0:"";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}
 image: /wp-content/uploads/2018/07/Hit-Refresh.jpg
 categories:
   - புத்தகம்
@@ -15,12 +17,21 @@ tags:
   - microsoft
   - Sathya Nadella
   - windows
+published: true
 ---
+<<<<<<< HEAD
 <figure class="wp-block-image"><img src="/wp-content/uploads/2018/07/Hit-Refresh.jpg" alt="Hit Refresh" class="wp-image-210" srcset="/wp-content/uploads/2018/07/Hit-Refresh.jpg 634w, /wp-content/uploads/2018/07/Hit-Refresh-198x300.jpg 198w" sizes="(max-width: 634px) 100vw, 634px" /><figcaption>Hit Refresh -English Edition Book Cover</figcaption></figure> 
+=======
+
+>>>>>>> c4c4e4e455cff3e80d9ff97aadcae94fe557da15
 
 <p class="has-drop-cap">
   கடந்த பத்து வருசத்துல என் சொந்தக் கனிணி எதுலயும் விண்டோஸ் அதிகபட்சம் 3 மாசம் கூட இருந்ததுல்ல… அப்பவும் ட்யூவல் ஓஎஸ்ஸா ஒரு ஓரமாத்தான் தூங்கியிருந்திருக்கு… கடந்த ஒன்றரை வருசமாத்தான் அலுவலக கனிணிலயும்… அதையும் ஒரு வழியா ஒழிச்சுக்கட்டியாச்சு… ஒரு மக்குப்பையனைப் பாக்குற ஃபீலோடவே அதைப் பாத்திருக்கேன்… அட இது செமையா இருக்கேன்னு ஒரு விஷயம் கூட அதுல எனக்கு தெரிஞ்சதில்ல… விண்டோஸ் 10ல சிலது பார்த்ததும் புடிச்சது… நீங்க திருந்தவே மாட்டீங்கடான்னுதான் அடுத்த சில நாட்கள்ல அதைப் பாக்கும் போது தோணும்.
 </p>
+
+<!--more-->
+
+<figure class="wp-block-image"><img src="/wp-content/uploads/2018/07/Hit-Refresh.jpg" alt="Hit Refresh" class="wp-image-210" srcset="/wp-content/uploads/2018/07/Hit-Refresh.jpg 634w, /wp-content/uploads/2018/07/Hit-Refresh-198x300.jpg 198w" sizes="(max-width: 634px) 100vw, 634px" /><figcaption>Hit Refresh -English Edition Book Cover</figcaption></figure> 
 
 விண்டோஸ் நிகழ்ச்சி ஒன்னுல, ஐ போனை பாக்கெட்ல இருந்து எடுத்தது… மைக்ரோசாப்ட் லவ்ஸ் லினக்ஸ்னு பின்னாடி ஸ்க்ரீன் தெரிய பேசுனது… Surface pro… visual code, MIT license-ல் வெளிவந்ததுன்னு ஏதோ அங்கங்க லேசா இந்த மண்டை கண்ல பட்டுகிட்டே இருந்தது…&nbsp;[#HitRefresh](https://www.facebook.com/hashtag/hitrefresh?source=feed_text)-னு புத்தகத்தோட பேரைக் கேட்டதும்… ஆமா ஆமா ஒரு காலத்துல திரும்ப திரும்ப அந்தக் கருமத்தைத்தான் அழுத்திட்டிருக்கனும்னு தானே சொல்ல வரீங்கன்னு நக்கலா விட்டுட்டேன்… வழக்கம் போல இதுவும் ஒரு சுயசரிதைன்னு ஒதுக்கிவிட்டாச்சு…
 
