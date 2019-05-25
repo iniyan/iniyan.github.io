@@ -1,23 +1,25 @@
 ---
 id: 8
 title: மொழிப்போர்
-date: 2014-11-10T15:13:00+00:00
+date: 2014-11-10T15:13:00.000Z
 author: iniyan
 layout: post
-guid: 'http://localhost:8888/wordpress/2014/11/10/%e0%ae%ae%e0%af%8a%e0%ae%b4%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%b0%e0%af%8d/'
-permalink: '/2014/11/10/%e0%ae%ae%e0%af%8a%e0%ae%b4%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%b0%e0%af%8d/'
+guid: >-
+  http://localhost:8888/wordpress/2014/11/10/%e0%ae%ae%e0%af%8a%e0%ae%b4%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%b0%e0%af%8d/
+permalink: >-
+  /2014/11/10/%e0%ae%ae%e0%af%8a%e0%ae%b4%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%8b%e0%ae%b0%e0%af%8d/
 blogger_blog:
   - www.iniyan.in
 blogger_author:
-  - ""
+  - ''
 blogger_permalink:
   - /2014/11/blog-post.html
 blogger_internal:
   - /feeds/9146627533884274098/posts/default/6612236224250155236
 instant_articles_force_submit:
-  - "1"
+  - '1'
 post_views_count:
-  - "76"
+  - '76'
 image: /wp-content/uploads/2014/11/mozhipor.png
 categories:
   - புத்தகம்
@@ -29,12 +31,13 @@ tags:
   - பெரியார்
   - மொழி உரிமை
   - மொழிப்பேராட்டம்
+published: true
 ---
 <div dir="ltr" style="text-align: left;">
   <p>
     தற்போது இந்தியைத் திணிக்க விரும்பும் ஆட்சியாளர்கள் கால மாற்றத்தைக் கவணிக்கத் தவறுகிறார்கள். எண்பது ஆண்டுகளுக்கு முந்தையச் சூழல் தற்போது இல்லை. உலகமயமாக்கலுக்குப் பிறகு இந்தி என்னும் குதிரையைக் கொண்டு இந்தியக் குண்டுச்சட்டிக்குள் கூடக் குதிரை ஓட்ட முடியாது என்பதை தமிழகத்தில் கூலி வேலை செய்யும் இந்தி பேசும் வட இந்தியச் சகோதரன் எங்களுக்குக் காட்டிக் கொண்டிருக்கிறான்.
   </p>
-  
+  <!--more-->
   <div style="text-align: justify;">
   </div>
   
