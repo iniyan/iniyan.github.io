@@ -226,7 +226,7 @@ header .entry-meta {
     font-variant: all-petite-caps;
 }
 
-.content {
-    font-size: 1.175rem;
-    line-height: 2.0571;
+.content,.content p {
+    font-size: 1.175rem !important;
+    line-height: 2.0571 !important;
 }
