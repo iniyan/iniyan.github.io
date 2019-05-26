@@ -1,5 +1,5 @@
 # Site
-title:              Iniyan
+title:              Thamiziniyan
 bio:                'INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal.'
 description:        "INTP-LOGICIAN, Journalist, Social Media Editor, Few BOTS, Inactive WordPress developer, Bibliophile, Coffee Addict. now @vikatan views are personal."
 reading_time:       true
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
