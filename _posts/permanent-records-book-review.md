@@ -1,4 +1,25 @@
-"ஸ்னோடன்: ஹீரோவா...? துரோகியா..?" Permanent Records புத்தகம் என்ன சொல்கிறது?
+---
+id: 205
+title: "ஸ்னோடன்: ஹீரோவா...? துரோகியா..?" Permanent Records புத்தகம் என்ன சொல்கிறது?
+date: 2019-10-14T14:23:55+00:00
+author: iniyan
+layout: post
+guid: 'http://iniyan.in/?p=205'
+permalink: /2018/06/30/permanent-records-book-review/
+ks_metadata:
+  - >-
+    a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:127:"Edward Snowden, book review, permanent record;s:19:"keywords_autoupdate";i:1;s:11:"description";s:435:"சகோதரியின் கடிதத்தைப் பிரிப்பது தனி நபர் உரிமை மீறல் என வளர்க்கப்பட்ட சிறுவன், அரசாங்கத்தின் உயர் ரகசியங்களை அத்துமீறி அம்பலப்படுத்தியவனாக மாறிய கதையை தானே விவரிக்கும் சுயசரிதைதான் “Permanent Records”.ு";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}
+image: https://gumlet.assettype.com/vikatan%2F2019-10%2Fa8860c5c-4558-44de-8542-c0b2569d6cf8%2F1.png?rect=0%2C41%2C700%2C394&auto=format%2Ccompress&format=webp&w=700&dpr=1.0
+categories:
+  - புத்தகம்
+  - விகடன்
+tags:
+  - Book Review
+  - Edward Snowden
+  - எட்வர்ட் ஸ்னோடன்
+  - Whistle Blower
+published: true
+---
 
 மிகச் சாதாரணமான ஒரு நாள்!
 
